@@ -1,0 +1,217 @@
+.sec_bor{
+    margin: 10px;
+    display: flex;
+    max-width: 80% !important;
+  }
+.para1{
+    border: 1px solid rgb(221, 221, 221);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding: 5px 100px;
+    font-weight: lighter;
+    background-color: yellow;
+
+}
+.para2{
+    border: 1px solid rgb(221, 221, 221);
+    padding: 5px 70px;
+    font-weight: lighter;
+
+
+}
+.para3{
+    border: 1px solid rgb(221, 221, 221);
+    padding: 5px 100px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-weight: lighter;
+
+}
+
+
+@media only screen and (max-width: 600px) {
+    .sec_bor {
+        width: 50%;
+       }
+       .para1{
+        padding: 5px 30px;
+    
+    }
+    .para2{
+        padding: 5px 30px;
+    
+    }
+    .para3{
+        padding: 5px 30px;
+    
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .sec_bor {
+        width: 50%;
+       }
+       .para1{
+        padding: 5px 30px;
+    
+    }
+    .para2{
+        padding: 5px 30px;
+    
+    }
+    .para3{
+        padding: 5px 30px;
+    
+    }
+}
+@media only screen and (max-width: 700px) {
+    .sec_bor {
+        width: 50%;
+       }
+       .para1{
+        padding: 5px 30px;
+    
+    }
+    .para2{
+        padding: 5px 30px;
+    
+    }
+    .para3{
+        padding: 5px 30px;
+    
+    }
+}
+@media only screen and (max-width: 750px) {
+    .sec_bor {
+        width: 50%;
+       }
+       .para1{
+        padding: 5px 30px;
+    
+    }
+    .para2{
+        padding: 5px 30px;
+    
+    }
+    .para3{
+        padding: 5px 30px;
+    
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .sec_bor {
+        width: 50%;
+       }
+       .para1{
+        padding: 5px 30px;
+    
+    }
+    .para2{
+        padding: 5px 30px;
+    
+    }
+    .para3{
+        padding: 5px 30px;
+    
+    }
+}
+@media only screen and (max-width: 850px) {
+    .sec_bor {
+        width: 50%;
+       }
+       .para1{
+        padding: 5px 30px;
+    
+    }
+    .para2{
+        padding: 5px 30px;
+    
+    }
+    .para3{
+        padding: 5px 30px;
+    
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .sec_bor {
+        width: 50%;
+       }
+       .para1{
+        padding: 5px 30px;
+    
+    }
+    .para2{
+        padding: 5px 30px;
+    
+    }
+    .para3{
+        padding: 5px 30px;
+    
+    }
+}
+@media only screen and (max-width: 950px) {
+    .sec_bor {
+        width: 50%;
+       }
+       .para1{
+        padding: 5px 30px;
+    
+    }
+    .para2{
+        padding: 5px 30px;
+    
+    }
+    .para3{
+        padding: 5px 30px;
+    
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .sec_bor {
+        width: 50%;
+       }
+       .para1{
+        padding: 5px 30px;
+    
+    }
+    .para2{
+        padding: 5px 30px;
+    
+    }
+    .para3{
+        padding: 5px 30px;
+    
+    }
+}
+
+@media only screen and (max-width: 1050px) {
+    .sec_bor {
+        width: 50%;
+       }
+       .para1{
+        padding: 5px 30px;
+    
+    }
+    .para2{
+        padding: 5px 30px;
+    
+    }
+    .para3{
+        padding: 5px 30px;
+    
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .sec_bor {
+        display: block;
+       }
+}
+@media only screen and (max-width: 800px) {
+    .sec_bor {
+       width: 80% ;
+      }
+  }

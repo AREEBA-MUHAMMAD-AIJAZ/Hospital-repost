@@ -1,0 +1,23 @@
+.card{
+    display: flex;
+}
+.card-body{
+    border: 1px solid rgb(174, 173, 173);
+    box-shadow: 3px 3px 3px rgb(185, 184, 184);
+    border-radius: 10px;
+}
+.card-title{
+    font-weight: lighter;
+    text-align: center;
+    Font:"Lato";
+    font-size: large;
+}
+.Button_div{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px 5px;
+    margin: 5px;
+}
+.row{
+    justify-content: space-evenly;
+}

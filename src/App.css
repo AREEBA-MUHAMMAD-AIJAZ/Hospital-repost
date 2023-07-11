@@ -1,0 +1,10 @@
+.first_div{
+ max-width: 99%;
+ background-color: rgb(247, 247, 246);
+ border: 1px solid rgb(174, 174, 174);
+ box-shadow: 5px 5px 5px rgb(170, 169, 169);
+ margin: 60px;
+}
+.heading_date{
+  display: flex;
+}
